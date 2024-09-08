@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lalo\\source\\repos\\Agenda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD5AC1D-A3F2-427D-9688-205544E16C05}|Agenda\\Agenda.vbproj|c:\\users\\lalo\\source\\repos\\agenda\\agenda\\vista\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AAD5AC1D-A3F2-427D-9688-205544E16C05}|Agenda\\Agenda.vbproj|solutionrelative:agenda\\vista\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD5AC1D-A3F2-427D-9688-205544E16C05}|Agenda\\Agenda.vbproj|c:\\users\\lalo\\source\\repos\\agenda\\agenda\\vista\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{AAD5AC1D-A3F2-427D-9688-205544E16C05}|Agenda\\Agenda.vbproj|solutionrelative:agenda\\vista\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD5AC1D-A3F2-427D-9688-205544E16C05}|Agenda\\Agenda.vbproj|c:\\users\\lalo\\source\\repos\\agenda\\agenda\\vista\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AAD5AC1D-A3F2-427D-9688-205544E16C05}|Agenda\\Agenda.vbproj|solutionrelative:agenda\\vista\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD5AC1D-A3F2-427D-9688-205544E16C05}|Agenda\\Agenda.vbproj|c:\\users\\lalo\\source\\repos\\agenda\\agenda\\vista\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AAD5AC1D-A3F2-427D-9688-205544E16C05}|Agenda\\Agenda.vbproj|solutionrelative:agenda\\vista\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD5AC1D-A3F2-427D-9688-205544E16C05}|Agenda\\Agenda.vbproj|c:\\users\\lalo\\source\\repos\\agenda\\agenda\\vista\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{AAD5AC1D-A3F2-427D-9688-205544E16C05}|Agenda\\Agenda.vbproj|solutionrelative:agenda\\vista\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD5AC1D-A3F2-427D-9688-205544E16C05}|Agenda\\Agenda.vbproj|c:\\users\\lalo\\source\\repos\\agenda\\agenda\\vista\\form2.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AAD5AC1D-A3F2-427D-9688-205544E16C05}|Agenda\\Agenda.vbproj|solutionrelative:agenda\\vista\\form2.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD5AC1D-A3F2-427D-9688-205544E16C05}|Agenda\\Agenda.vbproj|c:\\users\\lalo\\source\\repos\\agenda\\agenda\\controlador\\contactocompleto.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AAD5AC1D-A3F2-427D-9688-205544E16C05}|Agenda\\Agenda.vbproj|solutionrelative:agenda\\controlador\\contactocompleto.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAD5AC1D-A3F2-427D-9688-205544E16C05}|Agenda\\Agenda.vbproj|c:\\users\\lalo\\source\\repos\\agenda\\agenda\\controlador\\obtenercontactoscompletos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{AAD5AC1D-A3F2-427D-9688-205544E16C05}|Agenda\\Agenda.vbproj|solutionrelative:agenda\\controlador\\obtenercontactoscompletos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\lalo\\source\\repos\\Agenda\\Agenda\\Vista\\Form2.vb",
+              "RelativeDocumentMoniker": "Agenda\\Vista\\Form2.vb",
+              "ToolTip": "C:\\Users\\lalo\\source\\repos\\Agenda\\Agenda\\Vista\\Form2.vb",
+              "RelativeToolTip": "Agenda\\Vista\\Form2.vb",
+              "ViewState": "AgIAADoAAAAAAAAAAAAYwFMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-07T15:07:48.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactoCompleto.vb",
+              "DocumentMoniker": "C:\\Users\\lalo\\source\\repos\\Agenda\\Agenda\\Controlador\\ContactoCompleto.vb",
+              "RelativeDocumentMoniker": "Agenda\\Controlador\\ContactoCompleto.vb",
+              "ToolTip": "C:\\Users\\lalo\\source\\repos\\Agenda\\Agenda\\Controlador\\ContactoCompleto.vb",
+              "RelativeToolTip": "Agenda\\Controlador\\ContactoCompleto.vb",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-07T22:59:48.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\lalo\\source\\repos\\Agenda\\Agenda\\Vista\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Agenda\\Vista\\Form1.Designer.vb",
+              "ToolTip": "C:\\Users\\lalo\\source\\repos\\Agenda\\Agenda\\Vista\\Form1.Designer.vb",
+              "RelativeToolTip": "Agenda\\Vista\\Form1.Designer.vb",
+              "ViewState": "AgIAADQAAAAAAAAAAAAowCMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-07T08:16:35.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\lalo\\source\\repos\\Agenda\\Agenda\\Vista\\Form2.Designer.vb",
+              "RelativeDocumentMoniker": "Agenda\\Vista\\Form2.Designer.vb",
+              "ToolTip": "C:\\Users\\lalo\\source\\repos\\Agenda\\Agenda\\Vista\\Form2.Designer.vb",
+              "RelativeToolTip": "Agenda\\Vista\\Form2.Designer.vb",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAowAQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-07T15:06:37.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\lalo\\source\\repos\\Agenda\\Agenda\\Vista\\Form1.vb",
+              "RelativeDocumentMoniker": "Agenda\\Vista\\Form1.vb",
+              "ToolTip": "C:\\Users\\lalo\\source\\repos\\Agenda\\Agenda\\Vista\\Form1.vb",
+              "RelativeToolTip": "Agenda\\Vista\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-07T08:27:26.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lalo\\source\\repos\\Agenda\\Agenda\\Vista\\Form1.vb",
+              "RelativeDocumentMoniker": "Agenda\\Vista\\Form1.vb",
+              "ToolTip": "C:\\Users\\lalo\\source\\repos\\Agenda\\Agenda\\Vista\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Agenda\\Vista\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-07T08:14:04.777Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\lalo\\source\\repos\\Agenda\\Agenda\\Vista\\Form2.vb",
+              "RelativeDocumentMoniker": "Agenda\\Vista\\Form2.vb",
+              "ToolTip": "C:\\Users\\lalo\\source\\repos\\Agenda\\Agenda\\Vista\\Form2.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Agenda\\Vista\\Form2.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-07T08:07:21.23Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ObtenerContactosCompletos.vb",
+              "DocumentMoniker": "C:\\Users\\lalo\\source\\repos\\Agenda\\Agenda\\Controlador\\ObtenerContactosCompletos.vb",
+              "RelativeDocumentMoniker": "Agenda\\Controlador\\ObtenerContactosCompletos.vb",
+              "ToolTip": "C:\\Users\\lalo\\source\\repos\\Agenda\\Agenda\\Controlador\\ObtenerContactosCompletos.vb",
+              "RelativeToolTip": "Agenda\\Controlador\\ObtenerContactosCompletos.vb",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvx0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-07T23:12:56.667Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
